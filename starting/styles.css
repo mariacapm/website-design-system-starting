@@ -1,0 +1,166 @@
+/*fonts*/
+.logo {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Ubuntu', 'Arial', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 40px;
+    padding: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Ubuntu', 'Arial', sans-serif;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+.color-container h3 {
+    font-family: 'Ubuntu', 'Arial', sans-serif;
+}
+
+.fonts h3{
+   text-decoration: underline;
+}
+td {
+    font-size: 15px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+div {
+    display: block;
+}
+
+.value-type {
+    font-style: italic;
+    font-weight: 500;
+}
+
+.azul-profundo {
+    background-color: #09225D;
+    color: white;
+
+}
+
+.celeste-argentino {
+    background-color: #B0DEFD;
+}
+
+.azul-cielo {
+    background-color: #248ABC;
+}
+
+.blanco {
+    background-color: #FFFFFF;
+}
+
+.verde-mar {
+    background-color: #1B998B;
+}
+.color-container h3 {
+    height: 200px;
+    width: 250px;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding-top: 20px;
+}
+
+.colors, .fonts, .text-styles {
+    display: block;
+    margin: 20px auto;
+    padding: 20px 20px;
+    border: thin;
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.color-container {
+    display: inline-block;
+}
+
+.noto-sans-jp {
+    font-family: 'Noto Sans JP', 'Arial', sans-serif;;
+    display: inline-block;
+    margin-right: 60px;
+    line-height: 0.8;
+}
+
+.roboto {
+    font-family: 'Roboto', 'Arial', sans-serif;;
+    display: inline-block;
+    margin-right: 60px;
+    line-height: 0.8;
+}
+
+.ubuntu {
+    font-family: 'Ubuntu', 'Arial', sans-serif;;
+    display: inline-block;
+    margin-right: 60px;
+    line-height: 0.8;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.nav-font {
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.h1-font {
+    font-family: 'Ubuntu';
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.h2-font {
+    font-family: 'Ubuntu';
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.paragraph-font {
+    font-family: 'Noto Sans JP';
+    font-size: 16px;
+    font-weight: regular;
+}
+
+.text-styles ul {
+    margin: 0;
+    padding: 0;
+}
+
+.text-styles li {
+    list-style-position: inside;
+    list-style-type: circle;
+    margin-left: 10px;
+    font-family: 'Arial';
+}
+
+.color-description {
+    font-family: 'Arial';
+    font-size: 14px;
+}
